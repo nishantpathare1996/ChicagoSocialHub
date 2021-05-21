@@ -6,10 +6,10 @@
 -	The app-user shall be provided with the capability to view the real-time status for the near-by Divvy docking stations of the selected place 	along with Google map for the current location, the selected place location, and the nearest 3 Divvy docking stations of the selected place.
 
 ## Technology Stack:
--Angular 11
--Node.js/Express
--PostgreSQL- to store Divvy stations realtime status
--ElasticSearch - to store Yelp reviews for Chicago Businesses
+- Angular 11
+- Node.js/Express
+- PostgreSQL- to store Divvy stations realtime status
+- ElasticSearch - to store Yelp reviews for Chicago Businesses
 
 ## Folder Contents:
 1. backend
